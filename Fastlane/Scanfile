@@ -1,10 +1,10 @@
 # For more information about this configuration visit
 # https://github.com/fastlane/scan#scanfile
 
-workspace "AnyApp.xcodeproj/project.xcworkspace"
-scheme "AnyApp"
+project "Altroo.xcodeproj"
+scheme "Altroo"
 sdk "iphonesimulator"
-device "iPhone 11"
+device "iPhone 15 (17.0)"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
