@@ -3,3 +3,6 @@ Build
 # fastlane
 Fastlane/report.xml
 Fastlane/test_output
+
+# Ruby / Bundler
+vendor/bundle
